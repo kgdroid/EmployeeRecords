@@ -1,16 +1,27 @@
-# employer
+# Employee Records
 
-A new Flutter project.
+Flutter app created for **Zylu Business** Solutions internship round.
 
-## Getting Started
+ - [x] Login page for admin.
+ - [x] Display all the Employees in Firebase Firestore Database.
+ - [x] Admin can add new Employee data with Add button.
+ - [x] Any employee who is been more than 5 years and active with the organization are flagged in green color.
+ - [x] Show total number of Employee count on Top.
 
-This project is a starting point for a Flutter application.
+# Screen Shots
 
-A few resources to get you started if this is your first Flutter project:
+## Login Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![enter image description here](https://lh3.googleusercontent.com/oaVAZkXHpEiz4WtU8OkEiawXnX02v6O2zwwp3Y9rXlduia6xUyghaMydR7hdZRVU6NQnNSFXuLI2SZcg7H167KVZguzBmtN2HBFXjEX8SP7xBqJAHKLK50YV0_NzC3GZrJBsamNgP9kvUAvEP4cEiJOINxfaOCqEpjwYdfvAZXOg2evus4Bex7FYENgznmIIET3gNk60pYCpAO_Yn7AuzA-JwaLI5GeELLjNo_aT4bzpXIGKPb-kaz2Nrg4zK2NWZdX6QIp4FAX_7npG6pfU7o17WbjYGcuTAgxXnW1j2P4u9D2dwXORXb3nkT-Rpi1ogEyVKPOvmCXl3weWGiuYpIdCs_5U2vBz0sqtU7HJZ9kBsOwkkLdIYGMdfpybyW5sEdyB83n7qHZgHmcQGbhkKZbphJwW2eYuovG5ARSKqTToG-iu6upKHcctlRFny1xtWmmVua-B-tvu2FquKQOXTvTCiluyFwOru-t7gkW_qe2LxnQV-bCRVGVb9cPrBQs1ULsxOK0rJBwoI8__i2ctuM8WVBKFS_5lMBt02DoyLS7a6vSgPFbyhAt2E8p2qwMMhfvQeLuH723BYGc2i6nBxE5N-BLJGbMOW2yINiWc5u2YGp0fYjz_5wqzyDwGU7UDp2C7ozle8F-G9ebIMMGQJN65yc4i8Q9bkgcmJeQy1HreR27-DukUhEapBbTq-a-84As8vEHm2nw2MQ3BIFcZ1PyqYoDJq7fco2E8r-qrq5lYxqpAsnTXXCLB149p9Iz9XnaXtnItc4TdsyJU1Y3Fujb2MbOf8PQ=w908-h726-no?authuser=0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Employees and Dialog
+
+ - Employees list and count of employees on top.
+ - Add floating action button to open up a dialog.
+ - Dialog Box to add new Employee details.
+
+![enter image description here](https://lh3.googleusercontent.com/RUBzbCU0lAifHuANv0-8e_cIgZw-pWPBjqo2RoZyC82JlAylqFUsli7UqfjM6OfK-mVKxO0v1L8SO7ZlEKf_tHFVMfj3lNvHAysiSlvQclWlTSAh76mV3BWtog_l3rI8vqn7SEmNQje0CBHuzw7qeXHaYB69-tgU2x3-uRpwVFnx6qOi4zXbPiaDiazAEVzVyDNyEQf_FFXXzShcUINJDaC4tCNV0e3-KcLKbqAQN3kMNqACMCzcqYPGK4J4KThD88cFm2OXku5CUtK7UzBzKhtCQ5-XUEHWVzFBMhy-wvCoIaQ1cZgUa2ZOqe14rtUCoTo0cPQ44pHKd2am509rIjSbiuWQgE34x1sKGbS4WV3j78qfEm-c07qwy7P1BqlJrnvusPNIXXfHM1AozlD7J0VuVSN1LJ3EX-QVMa_gjNhdWUZsLIm0H6lCXTk0Qt538eLtxws4ZagCYRm4zO9gBilK9idOTvcm_izDOj5fPKWwmMWi4zkR6wFdK6e2NqpWaz-2LvTwGbfFfAosHXdh7DqHV_C7kiM_IvxPi85yZr2ICDDMOhGYHCKmTJXfQD6xW7PQ-pvPDvLnMQa6e3B05zEnFFSI6QF1SpzzaVBSlwFRlQ-333tpqxsvquS1h02UjMzkd2hKhYYux4_Gq_YxIFuWe6KxclO6EjaJS1aiqYT0pFjQaJ_ZhTnDVYrTIj-EioJ5JuXps5ELPvrQXJnl357apQJ1Q5gLC852CBUqZf6FnO0pnJYtdWE0h09h4Wrdnb7MbteRQ5y9-bZTx2NL3vtildWARrU=w908-h726-no?authuser=0)
+
+## Adding new Employee
+
+![enter image description here](https://lh3.googleusercontent.com/I_rB26LXMg9IPsQZpK_SBSGkm8B8x6DY4ftCYSHxUrvg1uk4ZnBVG9Fv1kLDQxVTpbNDgahkFpT9tZrhEwZ0VNHywRJLMzPJ7IINtGBHA3o6xSEcRhvgMqhuyGxvpdBmIbu44wwOMqZ1dQnd810QzBPA91ME1g8l_zjOJpfSouQ3YE2o73ZWpvZNrgPCSOW26s67Yisf0SnVkfgK0DU-SI19zIW-pHD7LbSxJijAIVLfMlLE0Kyh8R5y0U82DW9tMkqPAv1yewqaj8vvjaIeZD8F6EUvXtj6E2zOxOW_JcDbA7ZOCw9p-cEy7m70FUqmtvil2Uz_Wg5-hPsosZMylcpYPZGD4tecWAX1fV_qQRfw3uLYDeaqdHg1ZxDarphvO6ZTrvWHs3ywqUW0FMndWK8-2EXONni_Tqbdq1XrYHhYKORvdsGrn9wgQjtiAb-rDwfQs-jR_yux5HZz0aSaEO6gRWj9boQmi5brkzzqAOtCoDFCDSKJRZG5Dn6SrUmqyYCyAiM4M_Xmlt3SLCnMCLXHh7u26yU7Yr-0KaJ5czcIK-5ww8NgtO2jd5HIOvELQp_o7UxL9hkCBVtAaJNnyJCqIapJGMtPt6dEuH4JltmDEfQKyTEQ7igMOvL0oy4f65L3H_Db0z1ZaujEcTXIIRJhyANrfIpY9xcApFOw3ZQKxRqT7e7M5Bm2yw5Se-fklbsOPzDOe6folD-6zz0La4cLGB5J8flfJv1HcqSRkW-r33qM0HGAiTy03hcE3pNw4NxWJukFA7w5YyUhrs_1j_eCSEnyzng=w908-h726-no?authuser=0)
